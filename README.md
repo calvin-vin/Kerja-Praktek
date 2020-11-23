@@ -1,2 +1,2 @@
 # Kerja-Praktek
-Klasifikasi Citra Daging Ayam dengan Menggunakan CNN
+Klasifikasi kesegaran daging ayam menggunakan algoritma convolutional neural network
